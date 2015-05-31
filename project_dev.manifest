@@ -1,6 +1,6 @@
 { 
-"packageUrl" : "https://github.com/oiy37215/ziyuan/raw/master/", "remoteManifestUrl" : "https://github.com/oiy37215/ziyuan/raw/master/project_dev.manifest",
- "remoteVersionUrl" : "https://github.com/oiy37215/ziyuan/raw/master/version.manifest", 
+"packageUrl" : "https://github.com/oiy37215/ziyuan/raw/master/", "remoteManifestUrl" : "https://raw.githubusercontent.com/oiy37215/ziyuan/master/project_dev.manifest",
+ "remoteVersionUrl" : "https://raw.githubusercontent.com/oiy37215/ziyuan/master/version.manifest", 
 "version" : "1.2.0", 
 "engineVersion" : "3.x dev", 
 "assets" : 
