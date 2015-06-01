@@ -1,5 +1,5 @@
 {
-	"packageUrl" : "https://github.com/oiy37215/ziyuan/raw/master/",
+	"packageUrl" : "https://raw.githubusercontent.com/oiy37215/ziyuan/master/",
 	"remoteManifestUrl" : "https://raw.githubusercontent.com/oiy37215/ziyuan/master/project_dev.manifest",
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/oiy37215/ziyuan/master/version.manifest",
 	"version" : "1.2.0",
